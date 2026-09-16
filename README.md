@@ -16,15 +16,6 @@ then switches to minimax with alpha-beta pruning when the position leaves theory
 
 </div>
 
----
-
-<div align="center">
-  <img src=".github/assets/product-preview.svg" alt="Royal Gambit — Python chess game with minimax AI illustrated product preview" width="100%" />
-  <sub>Illustrated product preview based on implemented features.</sub>
-</div>
-
----
-
 ## What it is
 
 Royal Gambit is a desktop chess game written in Python and rendered with
