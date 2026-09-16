@@ -1,4 +1,8 @@
 <div align="center">
+  <img src=".github/assets/banner.svg" alt="Royal Gambit — Python chess game with minimax AI" width="100%" />
+</div>
+
+<div align="center">
 
 # Royal Gambit ♞
 
@@ -10,6 +14,13 @@ then switches to minimax with alpha-beta pruning when the position leaves theory
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-2.x-2C2D72?style=for-the-badge&logo=python&logoColor=white)
 
+</div>
+
+---
+
+<div align="center">
+  <img src=".github/assets/product-preview.svg" alt="Royal Gambit — Python chess game with minimax AI illustrated product preview" width="100%" />
+  <sub>Illustrated product preview based on implemented features.</sub>
 </div>
 
 ---
